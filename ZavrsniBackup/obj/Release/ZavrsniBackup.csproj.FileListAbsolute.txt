@@ -1,0 +1,17 @@
+C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\bin\Release\ZavrsniBackup.exe.config
+C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\bin\Release\ZavrsniBackup.exe
+C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\bin\Release\ZavrsniBackup.pdb
+C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\bin\Release\Devart.Data.dll
+C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\bin\Release\Devart.Data.SQLite.dll
+C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\bin\Release\System.Data.SQLite.dll
+C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\bin\Release\Devart.Data.xml
+C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\bin\Release\Devart.Data.SQLite.xml
+C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\obj\Release\ZavrsniBackup.BckSettForm.resources
+C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\obj\Release\ZavrsniBackup.RestoreUI.resources
+C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\obj\Release\ZavrsniBackup.csproj.GenerateResource.Cache
+C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\obj\Release\ZavrsniBackup.exe
+C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\obj\Release\ZavrsniBackup.pdb
+C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\bin\Release\ZavrsniBackup.exe.manifest
+C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\bin\Release\ZavrsniBackup.application
+C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\obj\Release\ZavrsniBackup.exe.manifest
+C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\obj\Release\ZavrsniBackup.application

@@ -1,0 +1,17 @@
+C:\Users\Boki\documents\visual studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\bin\x64\Debug\ZavrsniBackup.exe.config
+C:\Users\Boki\documents\visual studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\bin\x64\Debug\ZavrsniBackup.exe
+C:\Users\Boki\documents\visual studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\bin\x64\Debug\ZavrsniBackup.pdb
+C:\Users\Boki\documents\visual studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\bin\x64\Debug\System.Data.SQLite.dll
+C:\Users\Boki\documents\visual studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\obj\x64\Debug\ZavrsniBackup.exe
+C:\Users\Boki\documents\visual studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\obj\x64\Debug\ZavrsniBackup.pdb
+C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\bin\x64\Debug\Devart.Data.dll
+C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\bin\x64\Debug\Devart.Data.SQLite.dll
+C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\bin\x64\Debug\Devart.Data.xml
+C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\bin\x64\Debug\Devart.Data.SQLite.xml
+C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\obj\x64\Debug\ZavrsniBackup.BckSettForm.resources
+C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\obj\x64\Debug\ZavrsniBackup.RestoreUI.resources
+C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\obj\x64\Debug\ZavrsniBackup.csproj.GenerateResource.Cache
+C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\bin\x64\Debug\ZavrsniBackup.exe.manifest
+C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\bin\x64\Debug\ZavrsniBackup.application
+C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\obj\x64\Debug\ZavrsniBackup.exe.manifest
+C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\obj\x64\Debug\ZavrsniBackup.application
