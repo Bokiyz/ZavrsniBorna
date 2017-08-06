@@ -140,6 +140,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.6.1"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.6.1 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.6.1"
+                    }
+                }
             }
         }
         "Release"
@@ -474,7 +482,7 @@
         "Product"
         {
         "Name" = "8:Microsoft Visual Studio"
-        "ProductName" = "8:ZavrsniSetup"
+        "ProductName" = "8:ZavrsniRadJelić"
         "ProductCode" = "8:{7FCBBCC8-C6B8-41BA-BF84-DD60E28E3D31}"
         "PackageCode" = "8:{03826D41-C0E3-4637-B2CD-0F87A52AFE3B}"
         "UpgradeCode" = "8:{8EDA7A0B-97A3-4DBF-9A1B-E2BFD7958899}"
