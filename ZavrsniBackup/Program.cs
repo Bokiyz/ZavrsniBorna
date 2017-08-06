@@ -32,8 +32,9 @@ namespace ZavrsniBackup
                 Application.SetCompatibleTextRenderingDefault(false);
                 MessageBox.Show("Please set up your source and destination directory!", "Setup");
                 Application.Run(new BckSettForm());
+                //MessageBox.Show("Please run your first backup manually by cliking on the Manual backup shortcut!", "Setup");
             }
-
+            
             // If any arguments, execute GUI -- else execute process
             if (args.Length > 0)
             {

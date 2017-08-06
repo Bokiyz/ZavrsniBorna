@@ -121,6 +121,7 @@
             this.Name = "BckSettForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Backup settings";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.BckSettForm_FormClosing);
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.BckSettForm_FormClosed);
             this.ResumeLayout(false);
             this.PerformLayout();

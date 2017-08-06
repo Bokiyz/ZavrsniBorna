@@ -55,5 +55,14 @@ namespace ZavrsniBackup
         {
             Enabled = false;
         }
+
+        private void BckSettForm_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (txtDP.Text == "" || txtSP.Text == "")
+            {
+                MessageBox.Show("Please input a path to each directory!", "Error");
+                e.Cancel = true;
+            }
+        }
     }
 }
