@@ -26,6 +26,14 @@ namespace ZavrsniBackup
             var handle = Helper.GetConsoleWindow();
             Helper.ShowWindow(handle, SW_HIDE);
 
+            if(ConfigurationManager.AppSettings["sourceDirectory"] == "" || ConfigurationManager.AppSettings["destinationDirectory"] == "")
+            {
+                Application.EnableVisualStyles();
+                Application.SetCompatibleTextRenderingDefault(false);
+                MessageBox.Show("Please set up your source and destination directory!", "Setup");
+                Application.Run(new BckSettForm());
+            }
+
             // If any arguments, execute GUI -- else execute process
             if (args.Length > 0)
             {
