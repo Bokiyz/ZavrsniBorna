@@ -11,4 +11,3 @@ C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\
 C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\bin\x64\Release\Devart.Data.SQLite.xml
 C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\obj\x64\Release\ZavrsniBackup.exe
 C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\obj\x64\Release\ZavrsniBackup.pdb
-C:\Users\Boki\Documents\Visual Studio 2017\Projects\ZavrsniBackup\ZavrsniBackup\obj\x64\Release\ZavrsniBackup.csprojResolveAssemblyReference.cache
