@@ -90,7 +90,7 @@ namespace ZavrsniBackup
                 
                 using(SQLiteConnection conn = new SQLiteConnection(ConfigurationManager.ConnectionStrings["db"].ConnectionString))
                 {
-                    // Get the files in the directory and copy them to the new location
+                    // Get the files in the source directory and copy them to the new location
                     FileInfo[] files = dir.GetFiles();
                     foreach (FileInfo file in files)
                     {

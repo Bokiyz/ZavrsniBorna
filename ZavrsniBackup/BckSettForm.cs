@@ -29,7 +29,6 @@ namespace ZavrsniBackup
         private void btnDP_Click(object sender, EventArgs e)
         {
             FolderBrowserDialog dlg = new FolderBrowserDialog();
-            dlg.ShowNewFolderButton = false;
             dlg.Description = "Choose the destination directory for your backup!";
             if (dlg.ShowDialog() == DialogResult.OK)
             {
@@ -60,8 +59,17 @@ namespace ZavrsniBackup
         {
             if (txtDP.Text == "" || txtSP.Text == "")
             {
-                MessageBox.Show("Please input a path to each directory!", "Error");
-                e.Cancel = true;
+                DialogResult dialogResult = MessageBox.Show("Do you really wish to exit the settings?", "Warning", MessageBoxButtons.YesNo);
+                if (dialogResult == DialogResult.Yes)
+                {
+                    Close();
+                    Enabled = false;
+                }
+                else
+                {
+                    MessageBox.Show("Please input a path to each directory!", "Error");
+                    e.Cancel = true;
+                }
             }
         }
     }

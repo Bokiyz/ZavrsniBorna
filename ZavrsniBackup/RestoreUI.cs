@@ -132,6 +132,7 @@ namespace ZavrsniBackup
                 {
                     FileInfo file = new FileInfo(Path.Combine(fileSourcePath, tempFileName));
                     file.CopyTo(Path.Combine(fileDestPath, fileName), true);
+                    MessageBox.Show("Restoration successful!", "Result");
                 }
                 // File exists - same hash
                 else if (fileSourceHash == fileDestHash)
@@ -144,6 +145,7 @@ namespace ZavrsniBackup
                         if (newFile.LastWriteTime > olfFile.LastWriteTime)
                         {
                             File.Copy(Path.Combine(fileSourcePath, tempFileName), Path.Combine(fileDestPath, fileName), true);
+                            MessageBox.Show("Restoration successful!", "Result");
                         }
                     }
                     else if (dialogResult == DialogResult.No)
@@ -155,9 +157,10 @@ namespace ZavrsniBackup
                 else
                 {
                     File.Copy(Path.Combine(fileSourcePath, tempFileName), Path.Combine(fileDestPath, fileName), true);
+                    MessageBox.Show("Restoration successful!", "Result");
                 }
 
-                MessageBox.Show("Restoration successful!", "Result");
+                
 
                 // Delete the extracted zip
                 Directory.Delete(fileSourcePath, true);
